@@ -4,7 +4,7 @@
 
 - Get and display the entire list of contacts in the form of a table
   node index.js --action="list"
-  ![List screenshot](https://api.monosnap.com/file/download?id=YHZ4eTzvGl1pNfWwQ5U3Wm0oY7BuOQ)
+  ![List screenshot](https://d3dehtdmp2rwcw.cloudfront.net/ms_586519/NqxtEUSiPHwVXzfROoa2jdquQCFFQl/README.md%2B-%2BCLI-app%2B-%2BVisual%2BStudio%2BCode%2B2023-06-1.png?Expires=1687129200&Signature=SMoMTflAgNkO3hnpD2Vvf81OJyLGvOcrq~chQtFAC7lh4xRTpbRQ8UKR65XxCOKO9ItGI~Ne~fvBOvLnHLBvkVchcNTN29fQyYZKGwMagAcWnyz1p9o6YFArO2u~gSVtpWrS7zZrG8ed79MpoPpY~MZM3-d1OchL1QaOEezyGG4JdRW~vnn6WTxq1Q5fXjj39qatNZmMK0WjkKx99WOrvHhBI4zGcK7YozIk4drHuvS0cclVm2hKR3Tx~ves0-6HdTLx0D7VHms9EKHwy4nQJCQ5uGXwgYr9~l6yXvZ6YevUSOOz4rVBi1Qnxush8EJB311H71p-tFWHbLOQnpAvrw__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA)
 
 - Get a contact by id and output the contact object to the console or null, if there is no contact with such an id
   node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
