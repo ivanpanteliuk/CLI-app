@@ -4,7 +4,7 @@
 
 - Get and display the entire list of contacts in the form of a table
   node index.js --action="list"
-  ![List screenshot](https://monosnap.com/file/YHZ4eTzvGl1pNfWwQ5U3Wm0oY7BuOQ)
+  ![List screenshot](https://api.monosnap.com/file/download?id=YHZ4eTzvGl1pNfWwQ5U3Wm0oY7BuOQ)
 
 - Get a contact by id and output the contact object to the console or null, if there is no contact with such an id
   node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
